@@ -24,3 +24,7 @@ suitesparse:
   windows:
     vcpkg:
       packages: [suitesparse]
+jsoncpp:
+  windows:
+    vcpkg:
+      packages: [jsoncpp]
