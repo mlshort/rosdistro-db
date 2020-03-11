@@ -387,6 +387,10 @@ python-serial:
   windows:
     pip:
       packages: [pyserial]
+python-setuptools:
+  windows:
+    pip:
+      packages: [setuptools]
 python-sip:
   windows: [sip]
 python-sphinx:
