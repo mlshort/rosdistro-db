@@ -551,6 +551,9 @@ qt5-qmake:
   windows: [qt5-sdk]
 qtbase5-dev:
   windows: [qt5-sdk]
+rostime:
+  windows:
+    package: [ros-cppcore]
 rsync:
   windows: []
 sbcl:
