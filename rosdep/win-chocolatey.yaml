@@ -580,7 +580,8 @@ tinyxml2:
 tf2_ros:
   windows:
     '10':
-      packages: [tf2]
+      chocolatey:
+        packages: [tf2]
 uuid:
   windows: []
 vcpython:
