@@ -564,7 +564,7 @@ qtbase5-dev:
 rostime:
   windows:
     '10':
-      packages: [ros-cppcore]
+      packages: [rostime]
 rsync:
   windows: []
 sbcl:
