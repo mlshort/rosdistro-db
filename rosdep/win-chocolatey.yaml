@@ -553,7 +553,7 @@ qtbase5-dev:
   windows: [qt5-sdk]
 rostime:
   windows:
-    package: [ros-cppcore]
+    packages: [ros-cppcore]
 rsync:
   windows: []
 sbcl:
@@ -566,6 +566,9 @@ tinyxml:
   windows: [tinyxml]
 tinyxml2:
   windows: [tinyxml2]
+tf2_ros:
+  windows:
+    packages: [tf2]
 uuid:
   windows: []
 vcpython:
