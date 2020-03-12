@@ -30,6 +30,10 @@ gazebo:
   windows: [gazebo9]
 gazebo9:
   windows: [gazebo9]
+genmsg:
+  windows:
+    pip:
+      packages: [pyros-genmsg]
 git:
   windows: [git]
 glut:
