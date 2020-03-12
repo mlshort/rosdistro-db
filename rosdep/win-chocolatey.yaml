@@ -32,8 +32,9 @@ gazebo9:
   windows: [gazebo9]
 genmsg:
   windows:
-    pip:
-      packages: [pyros-genmsg]
+    '10':
+       pip:
+         packages: [pyros-genmsg]
 git:
   windows: [git]
 glut:
@@ -557,7 +558,8 @@ qtbase5-dev:
   windows: [qt5-sdk]
 rostime:
   windows:
-    packages: [ros-cppcore]
+    '10':
+      packages: [ros-cppcore]
 rsync:
   windows: []
 sbcl:
