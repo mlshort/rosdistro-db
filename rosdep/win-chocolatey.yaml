@@ -572,7 +572,7 @@ tinyxml2:
   windows: [tinyxml2]
 tf2_ros:
   windows:
-    10:
+    '10':
       packages: [tf2]
 uuid:
   windows: []
