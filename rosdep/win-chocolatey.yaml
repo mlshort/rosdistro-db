@@ -101,6 +101,11 @@ libboost-random-dev:
     chocolatey:
       depends: [boost]
       packages: []
+libboost-regex-dev:
+  windows:
+    chocolatey:
+      depends: [boost]
+      packages: []
 libboost-system-dev:
   windows:
     chocolatey:
